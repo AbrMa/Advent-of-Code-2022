@@ -39,11 +39,11 @@ becomes
 
 we can store those values into a data structure that can be sorted, in python we can use a list 
 
-\[ elves = [6000, 4000, 11000, 24000, 10000] \]
+$$ elves = [6000, 4000, 11000, 24000, 10000] $$
 
 then for finding the largest value we can sort the list 
 
-\[ elves = [4000, 6000, 10000, 11000, 24000] \]
+$$ elves = [4000, 6000, 10000, 11000, 24000] $$
 
 the largest value is going to be stored at the end.
 
